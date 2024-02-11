@@ -21,7 +21,7 @@ python3 main.py [a mercadona ticket PDF file]
 Still many things to add, like a way to read the ticket correctly, with current version 1.0 the program can't separate
 quantity from articles names and could be errors with some articles that begins with a number.
 
-Tests are made but still a lot of wirk pending here.
+Tests are made but still a lot of work pending here.
 
 I want to add graphs with matplotlib that shows the most articles buyed, the articles that cost more, and more stats.
 
